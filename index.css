@@ -1,0 +1,19 @@
+p{
+    font-size: 45px;
+    color: green;
+    
+}
+button{
+    color: green;
+    font-size: 25px;
+    padding: 15px 20px;
+    background: green;
+    color: white;
+    margin-left: 70px;
+
+
+}
+body{
+    background: rgb(8,36,46)
+}
+
